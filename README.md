@@ -1,3 +1,12 @@
-# Mi primer repositorio
+# Mi primer repositorio 👾
+Este es mi primer repositorio de aprendizaje y lo construyo para mi. 
 
-Nombre: Mariana Pizarro Hernandez
+## Equipo 👩🏻‍🦰
+- Nombre Mariana Pizarro Hernandez
+
+## Tecnologías 👩🏻‍💻
+- **Git:** Repositorios
+- **GitHub:** Repositorios
+
+## Estado actual ✨
+En construcción 🚧
