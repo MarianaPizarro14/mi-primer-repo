@@ -10,3 +10,8 @@ Este es mi primer repositorio de aprendizaje y lo construyo para mi.
 
 ## Estado actual ✨
 En construcción 🚧
+
+## Integrantes del equipo
+- Mariana Pizarro - [GitHub](https://github.com/MarianaPizarro14)
+- Jahela Ariza - [GitHub](https://github.com/jahelaariza06-ctrl)
+- Eliannis Hernandez - [GitHub](no tiene hasta el momento)
